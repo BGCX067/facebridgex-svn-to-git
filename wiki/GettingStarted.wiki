@@ -1,0 +1,6 @@
+#summary Getting started with facebook.
+
+= Getting started =
+
+FacebridgeX is a haxe port of the as3 facebookbridge and therefore very good documentation on getting started with facebook can be found at zerofractal eg:
+[http://components.zerofractal.com/FacebookBridge/gettingStarted.html facebook getting started]

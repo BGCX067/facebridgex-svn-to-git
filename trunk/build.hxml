@@ -1,0 +1,4 @@
+-cp facebridgex
+-swf9 facebridgex.swf
+-main FacebookExample.hx
+-swf-header 320:240:30:3b5998
